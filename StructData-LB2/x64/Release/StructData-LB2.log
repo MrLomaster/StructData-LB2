@@ -1,0 +1,10 @@
+﻿  StructData-LB2.cpp
+C:\Users\user\source\repos\StructData-LB2\StructData-LB2.cpp(114,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  17 of 120 functions (14.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  StructData-LB2.vcxproj -> C:\Users\user\source\repos\StructData-LB2\x64\Release\StructData-LB2.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

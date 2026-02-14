@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\StructData-LB2\x64\Release\openblas.dll
+C:\Users\user\source\repos\StructData-LB2\StructData-LB2\x64\Release\StructDa.9D067EA7.Up2Date
