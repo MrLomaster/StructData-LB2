@@ -102,7 +102,7 @@ void outputMatrix(const vector<double>& mas, int x, int y) { // вывод ну�
 }
 
 int main() {
-    cout << "Created by Timofei Kalinin\n" << "Code of Group: 090304-RPIa-o25\n\n";
+    cout << "Created by Kalinin Timofei Nikolaevich\n" << "Code of Group: 090304-RPIa-o25\n\n";
 
     // создаём плоские матрицы
     vector<double> a(N * N);
@@ -150,4 +150,5 @@ int main() {
     outputMatrix(c3, 2, 2);
 
     return 0;
+
 }
